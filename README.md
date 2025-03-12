@@ -59,6 +59,9 @@ Para executar este projeto em sua máquina local, siga os passos abaixo:
 - Um navegador moderno (Google Chrome, Firefox, Edge, etc.).
 - Um editor de texto ou IDE (VS Code, Sublime Text, etc.).
 
+Execute a calculadora hospedada neste link:
+  [Calculadora Científica](https://alexdevsoft.github.io/calculadora-cientifica/) 
+
 Clone o repositório ou baixe os arquivos diretamente:
    ```bash
    git clone https://github.com/Alexdevsoft/calculadora.git
